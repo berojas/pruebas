@@ -1,6 +1,2 @@
-/_site
-/Gemfile.lock
-/dist/bootstrap
-/dist/jquery
-/.idea
-/*.iml
+.retype/
+.DS_Store
