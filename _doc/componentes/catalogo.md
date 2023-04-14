@@ -9,13 +9,15 @@ sections:
 ## Diseño de bloques
 En este capítulo se explica los diferentes tipos de diseños que hay para cada vista 
 
-{: #1.-Banner-slider}
+{: #1.-banner-slider}
 ### 1. **Banner slider**
 
 Está diseñado para la cabecera de los basic page, puedes agregar la cantidad de imágenes que gustes (te pedirá también imágenes para todos los dispositivos), puedes poner un botón en cada slide si quieres que redireccione a tu lugar de preferencia **Puedes agregar la cantidad de sliders que desees**:
     
 * Primer slide
-[![primer slide](assets/images/bloque_primer_slide.jpg "Primer slide"){: .img-responsive}]
+<a href="assets/images/bloque_primer_slide.jpg" data-toggle="lightbox">
+    <img class="img-responsive" src="assets/images/bloque_primer_slide.jpg" alt="Primer slide" />
+</a>
 
 * Segundo slide
  ![segundo slide](assets/images/bloque_segundo_slide.jpg "Segundo slide")
