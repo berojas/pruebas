@@ -1,6 +1,6 @@
 body {
     font-family: 'Open Sans', arial, sans-serif;
-    color: #494d55;
+    color: black;
     font-size: 14px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
@@ -242,7 +242,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 
 .header {
     background: #ffec00;
-    color: #494d55;
+    color: black;
     border-top: 5px solid #40babd;
     padding: 30px 0
 }
@@ -335,15 +335,15 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 }
 
 .breadcrumb li {
-    color: #494d55;
+    color: black;
 }
 
 .breadcrumb li.active {
-    color: #494d55;
+    color: black;
 }
 
 .breadcrumb li a {
-    color: #494d55;
+    color: black;
 }
 
 .breadcrumb li a:hover {
@@ -1183,7 +1183,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 
 .landing-page .header {
     background: #ffec00;
-    color: #494d55;
+    color: black;
     padding: 60px 0
 }
 
