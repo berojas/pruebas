@@ -32,17 +32,24 @@ Está diseñado para la cabecera de los basic page, puedes agregar la cantidad d
 ### 2. **Bloque descripción**
 
 Puedes poner una imagen acompañado del texto
-![bloque descripción](assets/images/bloque_descripcion.jpg "Bloque descripción")
+<a href="assets/images/bloque_descripcion.jpg" data-toggle="lightbox">
+    <img class="img-responsive" src="assets/images/bloque_descripcion.jpg" alt="Bloque descripción" />
+</a>
 
 ### 3. **Bloque Franja Cifras**
 
 Puedes añadir las tarjetas en el botón “añadir tarjetas cifras”, **solo puedes añadir tarjetas 2 por columna**.
-![bloque franja cifras](assets/images/bloque_cifras.JPG "Bloque franja cifras")
+<a href="assets/images/bloque_cifras.JPG" data-toggle="lightbox">
+    <img class="assets/images/bloque_cifras.JPG" alt="Bloque franja cifras" />
+</a>
 
 ### 4. **Bloque imagen**
 
 solo es para una imagen, pero debes colocar los diferentes tipos de resoluciones que te solicita para cada tipo de dispositivos que se indican allí
-![bloque imagen](assets/images/bloque_imagen.jpg "Bloque imagen")
+<a href="assets/images/bloque_imagen.jpg" data-toggle="lightbox">
+    <img class="assets/images/bloque_imagen.jpg" alt="Bloque imagen" />
+</a>
+
 
 ### 5. **Banner slider**
 
