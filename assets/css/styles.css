@@ -521,7 +521,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 }
 
 .answer {
-    color: #616670
+    color: black
 }
 
 .code-block {
@@ -702,7 +702,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 .jumbotron .speech-bubble p {
     font-size: 14px;
     font-weight: normal;
-    color: #616670
+    color: black
 }
 
 .speech-bubble:before {
@@ -850,7 +850,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     display: block;
     padding: 5px 15px;
     border-left: 4px solid transparent;
-    color: #616670
+    color: black
 }
 
 .doc-menu>li>a:hover,.doc-menu>li>a:focus {
@@ -936,7 +936,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
 
 .doc-sub-menu>li>a {
     display: block;
-    color: #616670;
+    color: black;
     padding: 0;
     padding-left: 34px;
     background: none
@@ -1264,7 +1264,7 @@ input[type="text"],input[type="email"],input[type="password"],input[type="submit
     margin: 0 auto;
     max-width: 800px;
     margin-bottom: 60px;
-    color: #616670
+    color: black
 }
 
 .cards-section .cards-wrapper {

@@ -2,11 +2,11 @@
 layout: home
 title: Home
 tagline: |
-  { site.description | default: site.github.project_tagline }
+  Guía de Estrategia web de la Dirección de Información y Tecnologías DSIT de la Universidad de Los Andes. Versión 1.0.0.
   Diseñado con el *&nbsp;*{: .fa .fa-heart} para todos
 heading: Comenzar es fácil!
 navigation:
-  - /start
+
   - /components
 ---
 
