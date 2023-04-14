@@ -2,9 +2,9 @@
 layout: home
 title: Home
 tagline: |
-  {{ site.description | default: site.github.project_tagline }}
+  { site.description | default: site.github.project_tagline }
   Diseñado con el *&nbsp;*{: .fa .fa-heart} para todos
-  
+heading: Comenzar es fácil!
 navigation:
   - /start
   - /components
