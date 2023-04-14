@@ -5,3 +5,28 @@ logo: /assets/images/logo.png
 remote_theme: LeakyAbstractions/pretty-docs-2.2@2.2
 title: Guía de Estrategia web
 description: Guía de Estrategia web de la Dirección de Información y Tecnologías DSIT de la Universidad de Los Andes. Versión 1.0.0.
+
+#
+# Collections
+#
+collections:
+  doc:
+    output: true
+    permalink: /:path.html
+
+#
+# Default values
+#
+defaults:
+  -
+    scope:
+      path: ""
+      type: doc
+    values:
+      layout: doc
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: doc
