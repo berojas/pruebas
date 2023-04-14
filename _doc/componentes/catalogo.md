@@ -9,12 +9,12 @@ sections:
 
 ---
 
-{: .callout-title}
+
 ## Diseño de bloques
 En este capítulo se explica los diferentes tipos de diseños que hay para cada vista 
 
 {: #1-banner-slider}
-### 1. **Banner slider**
+[###### 1. **Banner slider**]{: .callout-title}
 
 Está diseñado para la cabecera de los basic page, puedes agregar la cantidad de imágenes que gustes (te pedirá también imágenes para todos los dispositivos), puedes poner un botón en cada slide si quieres que redireccione a tu lugar de preferencia **Puedes agregar la cantidad de sliders que desees**:
     
@@ -51,12 +51,4 @@ solo es para una imagen, pero debes colocar los diferentes tipos de resoluciones
     <img class="assets/images/bloque_imagen.jpg" alt="Bloque imagen" />
 </a>
 
-### 5. **Banner slider**
-
-Está diseñado para la cabecera de los basic page, puedes agregar la cantidad de imágenes que gustes (te pedirá también imágenes para todos los dispositivos), puedes poner un botón en cada slide si quieres que redireccione a tu lugar de preferencia **Puedes agregar la cantidad de sliders que desees**:
-    
-* Primer slide
-![primer slide](assets/images/bloque_primer_slide.jpg "Primer slide")
-* Segundo slide
- ![segundo slide](assets/images/bloque_segundo_slide.jpg "Segundo slide")
   
