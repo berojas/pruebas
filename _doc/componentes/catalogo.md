@@ -28,7 +28,7 @@ Está diseñado para la cabecera de los basic page, puedes agregar la cantidad d
     <img class="img-responsive" src="assets/images/bloque_segundo_slide.jpg" alt="Segundo slider" />
 </a>
 
-{: #2-bloque-descripción}
+{: #2.-bloque-descripción}
 ### 2. **Bloque descripción**
 
 Puedes poner una imagen acompañado del texto
@@ -36,6 +36,7 @@ Puedes poner una imagen acompañado del texto
     <img class="img-responsive" src="assets/images/bloque_descripcion.jpg" alt="Bloque descripción" />
 </a>
 
+{: #2.-bloque-descripción}
 ### 3. **Bloque Franja Cifras**
 
 Puedes añadir las tarjetas en el botón “añadir tarjetas cifras”, **solo puedes añadir tarjetas 2 por columna**.
