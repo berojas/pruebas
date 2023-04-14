@@ -5,6 +5,7 @@ sections:
 
 ---
 
+{: .callout-title}
 ## Diseño de bloques
 En este capítulo se explica los diferentes tipos de diseños que hay para cada vista 
 
