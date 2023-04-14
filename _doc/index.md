@@ -2,24 +2,14 @@
 layout: home
 title: Home
 tagline: |
-  Free Bootstrap theme for your project documentation
+  {{ site.description | default: site.github.project_tagline }}
+  Diseñado con el *&nbsp;*{: .fa .fa-heart} para todos
   
-  Designed with *&nbsp;*{: .fa .fa-heart} for developers
-  
-  Ready to use in *&nbsp;*{: .fa .fa-github} Github Pages
-heading: Getting started is easy!
 navigation:
   - /start
   - /components
-  - /charts
-  - /faqs
-  - /showcase
-  - /credits
-  - /news
-  - /community
 ---
 
-Welcome to prettyDocs.
-This landing page is an example of how you can use a card view to present segments of your documentation.
-You can customise the icon fonts based on your needs.
+Esta guía de usuario explica en detalle cada uno de estos pasos y brindainformación de interés para personas con un conocimiento mínimo del sistema de gestión de contenido. 
+Los temas los ayudarán a la administración, construcción de sitios y/o mantenimiento del contenido. La guía también está dirigida a personas que ya tienen alguna experiencia
 
