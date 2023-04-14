@@ -4,7 +4,7 @@ sections:
 - 1. Banner slider
 - 2. Bloque descripción
 - 3. Bloque Franja Cifras
-- 4. bloque imagen
+- 4. Bloque imagen
 - 5. Banner slider
 
 ---
