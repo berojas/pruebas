@@ -50,7 +50,6 @@ solo es para una imagen, pero debes colocar los diferentes tipos de resoluciones
     <img class="assets/images/bloque_imagen.jpg" alt="Bloque imagen" />
 </a>
 
-
 ### 5. **Banner slider**
 
 Está diseñado para la cabecera de los basic page, puedes agregar la cantidad de imágenes que gustes (te pedirá también imágenes para todos los dispositivos), puedes poner un botón en cada slide si quieres que redireccione a tu lugar de preferencia **Puedes agregar la cantidad de sliders que desees**:
